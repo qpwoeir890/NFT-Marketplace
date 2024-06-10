@@ -1,4 +1,4 @@
-let header = document.querySelector(".header");
+https://bright-gumdrop-4c2b38.netlify.applet header = document.querySelector(".header");
 let toggleBtn = document.querySelector(".header__btn-homburger");
 let headerList = document.querySelector(".header__list");
 
